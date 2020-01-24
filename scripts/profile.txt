@@ -1,0 +1,2 @@
+PATH=$PATH:~/local/bin
+alias upa="sudo apt update && sudo aptitude upgrade --full-resolve -y && sudo  apt autoremove -y"
